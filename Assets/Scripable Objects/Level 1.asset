@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f5837d2f275670b4db595cc10cd9da92, type: 3}
+  m_Name: Level 1
+  m_EditorClassIdentifier: 
+  width: 7
+  height: 7
+  boardLayout: []
+  dots:
+  - {fileID: 3952678744171671284, guid: 7104f31358758604990fd7b0ee254a5a, type: 3}
+  - {fileID: 5500385295159470554, guid: 9610c199411f8f440b518fc5229411de, type: 3}
+  - {fileID: 4057728543875258215, guid: 69dc286ce3a04b74b8f176cee88d8c4d, type: 3}
+  - {fileID: 7801448806888030697, guid: 8e98da394a1a1b14e8d9cde9ed536d2a, type: 3}
+  - {fileID: 6021550814554088596, guid: 04f04ded09570274088f37a6874e5306, type: 3}
+  scoreGoal: c8000000f4010000bc020000
+  endGameRequirements:
+    gameType: 0
+    counterValue: 20
+  levelGoals:
+  - numberNeeded: 10
+    numberCollected: 11
+    goalSprite: {fileID: 7427526204996982723, guid: 777059c218858e74fac75c8899828f91, type: 3}
+    matchValue: Cam Dot

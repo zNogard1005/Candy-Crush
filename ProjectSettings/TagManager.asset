@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Cam Dot
+  - DoDam Dot
+  - HongDam Dot
+  - TimThan Dot
+  - Vang Dot
+  - XanhDam Dot
+  - XanhDuong Dot
+  - XanhLa Dot
+  - Puice Dot
+  - Color
+  - Breakable
+  - Board
+  - Concrete
+  - Chocolate
+  - Lock
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Markers
+    uniqueID: 1478411997
+    locked: 0
